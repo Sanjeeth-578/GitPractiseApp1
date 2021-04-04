@@ -9,6 +9,8 @@ public class GitTest1 {
       System.out.println("Code committed by 4170 2 line");
       System.out.println("Code committed by 4170 3 line");
       System.out.println("Code committed by 4170 4 line");
+      System.out.println("Code committed by 578 5 line");
+      System.out.println("Code committed by 578 6 line");
 	}
 
 }
